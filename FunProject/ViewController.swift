@@ -16,5 +16,7 @@ class ViewController: UIViewController {
 
     //hahaha
     //weight 10
+    
+    //3.0 Blue
 }
 

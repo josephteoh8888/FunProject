@@ -18,6 +18,6 @@ class ViewController: UIViewController {
     //weight 10
     
     
-    //Rectangle
+    //Rectangle 2.0
 }
 

@@ -12,6 +12,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        let whiteCover = UIView()
+        whiteCover.frame = view.bounds
+        whiteCover.backgroundColor = .blue
+        view.addSubview(whiteCover)
     }
 
     //hahaha
